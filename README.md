@@ -1,3 +1,4 @@
+![image alt](https://github.com/LOSXinfinity/LOSXinfinity/blob/55cd3a37894d4a524f11e1530db1b2f0eb6b0818/GitHub_banner.png)
 # 💫 About Me:
 Digital creator<br>Lᴏsᴛ ♎<br>Пространство между жизнью и смертью - вот где мы наиболее живы.💔<br>🎮 Gᴀᴍᴇʀ<br>💻 Eᴅɪᴛ Aɴɪᴍᴀᴛɪᴏɴ<br>📸 Nᴀᴛᴜʀᴇ Pʜᴏᴛᴏɢʀᴀᴘʜʏ<br>🈴 Gᴏᴋᴜ X ɪTᴀᴄʜɪ X Yᴏʀɪɪᴄʜɪ
 
@@ -17,10 +18,6 @@ Digital creator<br>Lᴏsᴛ ♎<br>Пространство между жизн�
 </div>
 
 ## 📸 Portfolio Snapshot
-
-<div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1djsV0bwcVQLxhTRcw7yui2BXrZRqmuHQ" width="500"/>
-</div>
 
 
 ### Question For you 🤔
